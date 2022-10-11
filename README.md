@@ -14,13 +14,13 @@ pip install .  # install packages and initialize project
 
 ### Running
 ```bash
-process-ads --file path/to/file [--write]
+process-ads --file path/to/file [--write path/to/new/file]
 # OR
-python -m finn_ads.main --file path/to/file [--write]
+python -m finn_ads.main --file path/to/file [--write path/to/new/file]
 ```
 
 Example using ads.txt in the data folder and writing to file adStats.txt
 ```bash
-process-ads --file ./data/ads.txt --write
+process-ads --file ./data/ads.txt --write  # default file to write to is adStats.txt
 ```
 
