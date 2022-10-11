@@ -1,0 +1,60 @@
+AdType: skateboard
+Current amount of ads: 29296
+Duplicated ads: 294
+Lowest value ad: 66290 (99.0 kr)
+Highest value ad: 64395 (5998.0 kr)
+
+AdType: house
+Current amount of ads: 10978
+Duplicated ads: 96
+Lowest value ad: 52199 (355194.0 kr)
+Highest value ad: 8773 (209985550.0 kr)
+
+AdType: sofa
+Current amount of ads: 14204
+Duplicated ads: 149
+Lowest value ad: 14655 (58.0 kr)
+Highest value ad: 50563 (15999.0 kr)
+
+AdType: airplane
+Current amount of ads: 8579
+Duplicated ads: 82
+Lowest value ad: 98630 (5801304.0 kr)
+Highest value ad: 63105 (16298157.0 kr)
+
+AdType: dvdplayer
+Current amount of ads: 19347
+Duplicated ads: 188
+Lowest value ad: 63672 (130.0 kr)
+Highest value ad: 76668 (9099.0 kr)
+
+AdType: car
+Current amount of ads: 2011
+Duplicated ads: 9
+Lowest value ad: 41035 (10881.0 kr)
+Highest value ad: 28749 (23479086.0 kr)
+
+AdType: cat
+Current amount of ads: 4761
+Duplicated ads: 54
+Lowest value ad: 41220 (3000.0 kr)
+Highest value ad: 67960 (8011.0 kr)
+
+AdType: boat
+Current amount of ads: 979
+Duplicated ads: 13
+Lowest value ad: 2822 (26851.0 kr)
+Highest value ad: 48703 (99998110.0 kr)
+
+AdType: mc
+Current amount of ads: 6426
+Duplicated ads: 73
+Lowest value ad: 4330 (1520.0 kr)
+Highest value ad: 59153 (138542.0 kr)
+
+AdType: table
+Current amount of ads: 3419
+Duplicated ads: 25
+Lowest value ad: 36534 (2.0 kr)
+Highest value ad: 43175 (57860.0 kr)
+

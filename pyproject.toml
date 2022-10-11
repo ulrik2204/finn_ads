@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "finn_ads"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = [
+    'importlib-metadata; python_version<"3.10"',
+]
+dynamic = ["version"]
+
+[project.scripts]
+process-ads = "finn_ads.main:main"
+
+[tool.setuptools]
+packages = ["finn_ads"]
