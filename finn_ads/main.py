@@ -9,9 +9,10 @@ def main():
     should_write = False
     try:
         write_index = sys.argv.index("--write")
+        print("argv", len(sys.argv))
         writefile = (
             "adStats.txt"
-            if len(sys.argv) >= write_index + 1
+            if len(sys.argv) <= write_index + 1
             else sys.argv[write_index + 1]
         )
         should_write = True
